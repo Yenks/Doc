@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "FundFlows",
-    "slug": "FundFlows",
+    "name": "Doc",
+    "slug": "Doc",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
